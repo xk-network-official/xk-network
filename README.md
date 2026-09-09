@@ -40,6 +40,7 @@ These links are cross-published as the project's canonical public sources.
 ## Repository Contents
 
 - [`contracts/XKToken.sol`](contracts/XKToken.sol) — deployed XKT contract source
+- [`missions/001-public-source-consistency-audit.md`](missions/001-public-source-consistency-audit.md) — first open mission
 - [`docs/ROADMAP.md`](docs/ROADMAP.md) — public worklist
 - [`docs/SECURITY.md`](docs/SECURITY.md) — security guidance
 - [`docs/OFFICIAL-LINKS.md`](docs/OFFICIAL-LINKS.md) — canonical sources
@@ -59,11 +60,11 @@ Responsible for project direction, public documentation, and coordination of the
 | 07 Sep 2026 | Core contract deployed with fixed supply and verified source | Completed |
 | 08 Sep 2026 | Website, Litepaper, contact details, and token disclosures published | Completed |
 | 10 Sep 2026 | GitHub, X, and public Telegram channel consolidated as official sources | Completed |
-| Next | Open missions and contribution-record format | Planned |
+| 10 Sep 2026 | Open Mission #001 published for public-source consistency review | Open |
 
 ## Current Status
 
-XK Network is in an early development stage. Current work focuses on public documentation, verified project information, and transparent community communication. Roadmap items remain proposals until demonstrably delivered.
+XK Network is in an early development stage. Its public foundation is complete and maintained continuously. Open Mission #001 is the first documented contribution workflow; roadmap items remain proposals until demonstrably delivered.
 
 ## Disclosures
 
