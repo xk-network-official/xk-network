@@ -8,16 +8,17 @@ Roadmap items are public work items, not promises of delivery dates, token value
 - Contract source verified as an Exact Match on BscScan.
 - Official website, Litepaper, contact details, GitHub, X, and Telegram published.
 - Public contract, security, risk, and project-status disclosures published.
+- Open Mission #001 specification prepared for public participation.
 
 ## In progress
 
 - Maintain consistent and verifiable project information across official channels.
-- Define a public format for bounded missions and contribution records.
+- Run Open Mission #001 and publish its review outcome.
 - Document future treasury and token-distribution policies before execution.
 
 ## Planned
 
-- Publish the first bounded open mission.
+- Refine the mission and contribution-record format using the first review outcome.
 - Demonstrate a human–AI collaboration workflow.
 - Evaluate identity, contribution-proof, and transparent-incentive mechanisms.
 
