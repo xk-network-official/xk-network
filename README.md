@@ -37,6 +37,15 @@ Always verify the contract address before interacting with XKT. XK Network will 
 
 These links are cross-published as the project's canonical public sources.
 
+## Repository Contents
+
+- [`contracts/XKToken.sol`](contracts/XKToken.sol) — deployed XKT contract source
+- [`docs/ROADMAP.md`](docs/ROADMAP.md) — public worklist
+- [`docs/SECURITY.md`](docs/SECURITY.md) — security guidance
+- [`docs/OFFICIAL-LINKS.md`](docs/OFFICIAL-LINKS.md) — canonical sources
+- [`docs/TOKEN-DISCLOSURE.md`](docs/TOKEN-DISCLOSURE.md) — token facts and current published status
+- [`LICENSE`](LICENSE) — MIT License
+
 ## Team & Accountability
 
 **Yukun Zang — Founder & Project Lead**
