@@ -30,7 +30,7 @@ Always verify the contract address before interacting with XKT. Official announc
 - [Website](https://xk-network.dxfwwnc5dx.chatgpt.site)
 - [Litepaper](https://xk-network.dxfwwnc5dx.chatgpt.site/litepaper.html)
 - [X / Twitter](https://x.com/XKUSDT)
-- [Telegram Announcement Channel](https://t.me/+nKemXUcvbbgyM2E9)
+- [Telegram Announcement Channel](https://t.me/XKNetworkOfficial)
 - Contact: 506664567@qq.com
 
 ## Team
