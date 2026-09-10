@@ -1,6 +1,6 @@
 # Identity and Verification Record
 
-**Reviewed:** 10 September 2026
+**Reviewed:** 11 September 2026
 
 This record distinguishes independently checkable facts from project-controlled statements and unresolved verification items.
 
@@ -24,9 +24,9 @@ BscScan source verification shows whether published source matches deployed byte
 ## Canonical sources
 
 - Website: https://xknetwork.net/
-- Website verification record: https://xknetwork.net/verification.html
-- Founder accountability profile: https://xknetwork.net/founder.html
-- Litepaper: https://xknetwork.net/litepaper.html
+- Website verification record: https://xknetwork.net/verification
+- Founder accountability profile: https://xknetwork.net/founder
+- Litepaper: https://xknetwork.net/litepaper
 - GitHub: https://github.com/xk-network-official/xk-network
 - X: https://x.com/XKUSDT
 - Telegram: https://t.me/XKNetworkOfficial
@@ -44,6 +44,6 @@ The domain-email item is complete; the remaining items are not described as comp
 
 ## Link and asset check
 
-On 10 September 2026, the dedicated website domain, Litepaper, Mission #001, public GitHub repository, X profile, Telegram landing page, and Telegram web preview were checked. The 32×32 SVG and 64×64 PNG logo endpoints were also checked.
+On 11 September 2026, the dedicated website domain, Litepaper, Mission #001, public GitHub repository, X profile, Telegram landing page, and Telegram web preview were checked. The 32×32 SVG and 64×64 PNG logo endpoints were also checked.
 
 BscScan or the website may present automated Cloudflare security checks to some automated clients. Important explorer and website links should be checked manually in a normal browser before any future metadata submission.
