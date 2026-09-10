@@ -6,7 +6,7 @@ XK Network is an early-stage, founder-led initiative exploring transparent colla
 
 ## Current Status
 
-The core public pages, official channels, and dedicated domain are published. Domain-email and independent founder-profile work remain open. Open Mission #001 is the first documented contribution workflow; roadmap items remain proposals until demonstrably delivered.
+The core public pages, official channels, dedicated domain, project-controlled founder accountability profile, and domain-based contact email are published. The official mailbox has passed inbound and outbound delivery testing; independent third-party profile work remains open. Open Mission #001 is the first documented contribution workflow; roadmap items remain proposals until demonstrably delivered.
 
 The official website, GitHub, X, and Telegram accounts are project-controlled sources. They provide public accountability and consistency, but they are not independent professional identity verification.
 
@@ -37,13 +37,15 @@ Always verify the contract address before interacting with XKT. XK Network will 
 
 - [Website](https://xknetwork.net)
 - [Litepaper](https://xknetwork.net/litepaper.html)
+- [Identity and verification record](https://xknetwork.net/verification.html)
+- [Founder accountability profile](https://xknetwork.net/founder.html)
 - [GitHub](https://github.com/xk-network-official/xk-network)
 - [X / Twitter](https://x.com/XKUSDT)
 - [Telegram Announcement Channel](https://t.me/XKNetworkOfficial)
-- **Official primary contact:** 506664567@qq.com
+- **Official primary contact:** contact@xknetwork.net
 
 These links are cross-published as the project's canonical public sources.
 
 ## Team & Accountability
 
-XK Network is currently founder-led by Yukun Zang. The public founder name, project contact, contract creator address, and official project channels are documented in the [Identity and Verification Record](https://xknetwork.net/verification.html). No independent professional identity profile is claimed at this stage.
+XK Network is currently founder-led by Yukun Zang. His [founder profile](https://xknetwork.net/founder.html) documents the current role, responsibilities, public work, and unresolved verification limitations. It is project-controlled and is not presented as independent professional identity verification.
