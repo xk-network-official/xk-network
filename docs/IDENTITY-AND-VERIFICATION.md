@@ -23,9 +23,9 @@ BscScan source verification shows whether published source matches deployed byte
 
 ## Canonical sources
 
-- Website: https://xk-network.dxfwwnc5dx.chatgpt.site/
-- Website verification record: https://xk-network.dxfwwnc5dx.chatgpt.site/verification.html
-- Litepaper: https://xk-network.dxfwwnc5dx.chatgpt.site/litepaper.html
+- Website: https://xknetwork.net/
+- Website verification record: https://xknetwork.net/verification.html
+- Litepaper: https://xknetwork.net/litepaper.html
 - GitHub: https://github.com/xk-network-official/xk-network
 - X: https://x.com/XKUSDT
 - Telegram: https://t.me/XKNetworkOfficial
@@ -34,8 +34,7 @@ BscScan source verification shows whether published source matches deployed byte
 
 ## Current limitations
 
-- The website uses a hosted `chatgpt.site` subdomain rather than a dedicated project domain.
-- The official primary contact is a publicly disclosed QQ address rather than an address on a dedicated project domain.
+- The dedicated project domain is active, but the official primary contact remains a publicly disclosed QQ address rather than an address on that domain.
 - An independently hosted professional profile for Yukun Zang has not yet been published.
 - The official social accounts are new and have limited public history.
 - No public sale, private sale, exchange listing, security audit, or guaranteed token distribution program is represented as active.
@@ -44,10 +43,6 @@ These items remain open and are not described as completed.
 
 ## Link and asset check
 
-On 10 September 2026, the website, Litepaper, Mission #001, public GitHub repository, X profile, Telegram landing page, and Telegram web preview opened successfully. The 32×32 SVG and 64×64 PNG logo endpoints also rendered directly.
+On 10 September 2026, the dedicated website domain, Litepaper, Mission #001, public GitHub repository, X profile, Telegram landing page, and Telegram web preview were checked. The 32×32 SVG and 64×64 PNG logo endpoints were also checked.
 
-BscScan presented an automated Cloudflare security check during one automated browser test. The explorer URL should be checked manually in a normal browser before any future metadata submission.
-
-## Resubmission status
-
-The project is not represented as ready for another BscScan metadata submission. Consider one evidence-backed resubmission only after the unresolved identity and domain items are addressed and every public link is rechecked without relying on a logged-in session.
+BscScan or the website may present automated Cloudflare security checks to some automated clients. Important explorer and website links should be checked manually in a normal browser before any future metadata submission.
