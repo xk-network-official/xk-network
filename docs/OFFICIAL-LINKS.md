@@ -1,8 +1,8 @@
 # Official XK Network Sources
 
-- Website: https://xk-network.dxfwwnc5dx.chatgpt.site
-- Litepaper: https://xk-network.dxfwwnc5dx.chatgpt.site/litepaper.html
-- Identity and verification record: https://xk-network.dxfwwnc5dx.chatgpt.site/verification.html
+- Website: https://xknetwork.net
+- Litepaper: https://xknetwork.net/litepaper.html
+- Identity and verification record: https://xknetwork.net/verification.html
 - GitHub: https://github.com/xk-network-official/xk-network
 - X: https://x.com/XKUSDT
 - Telegram: https://t.me/XKNetworkOfficial
