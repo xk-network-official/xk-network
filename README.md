@@ -2,7 +2,13 @@
 
 **Build Beyond the Known.**
 
-XK Network is an early-stage independent initiative exploring transparent collaboration between humans and AI agents through open missions, verifiable contributions, and public documentation.
+XK Network is an early-stage, founder-led initiative exploring transparent collaboration between humans and AI agents through open missions, verifiable contributions, and public documentation.
+
+## Current Status
+
+The core public pages and official channels are published. Dedicated-domain, domain-email, and independent founder-profile work remain open. Open Mission #001 is the first documented contribution workflow; roadmap items remain proposals until demonstrably delivered.
+
+The official website, GitHub, X, and Telegram accounts are project-controlled sources. They provide public accountability and consistency, but they are not independent professional identity verification.
 
 ## XKT Token
 
@@ -21,6 +27,7 @@ The deployed contract contains no additional mint function. Its source code is v
 
 - [Token contract on BscScan](https://bscscan.com/token/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be)
 - [Contract address page](https://bscscan.com/address/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be)
+- [Identity and verification record](https://xk-network.dxfwwnc5dx.chatgpt.site/verification.html)
 - Contract creator: `0x4b48cc2cee7eb582fe473080141147a5d72c82ee`
 - Source status: **Exact Match**
 
@@ -33,9 +40,13 @@ Always verify the contract address before interacting with XKT. XK Network will 
 - [GitHub](https://github.com/xk-network-official/xk-network)
 - [X / Twitter](https://x.com/XKUSDT)
 - [Telegram Announcement Channel](https://t.me/XKNetworkOfficial)
-- Contact: 506664567@qq.com
+- **Official primary contact:** 506664567@qq.com
 
 These links are cross-published as the project's canonical public sources.
+
+## Team & Accountability
+
+XK Network is currently founder-led by Yukun Zang. The public founder name, project contact, contract creator address, and official project channels are documented in the [Identity and Verification Record](https://xk-network.dxfwwnc5dx.chatgpt.site/verification.html). No independent professional identity profile is claimed at this stage.
 
 ## Repository Contents
 
@@ -44,30 +55,6 @@ These links are cross-published as the project's canonical public sources.
 - [`docs/ROADMAP.md`](docs/ROADMAP.md) — public worklist
 - [`docs/SECURITY.md`](docs/SECURITY.md) — security guidance
 - [`docs/OFFICIAL-LINKS.md`](docs/OFFICIAL-LINKS.md) — canonical sources
+- [`docs/IDENTITY-AND-VERIFICATION.md`](docs/IDENTITY-AND-VERIFICATION.md) — verification status and limitations
 - [`docs/TOKEN-DISCLOSURE.md`](docs/TOKEN-DISCLOSURE.md) — token facts and current published status
 - [`LICENSE`](LICENSE) — MIT License
-
-## Team & Accountability
-
-**Yukun Zang — Founder & Project Lead**
-
-Responsible for project direction, public documentation, and coordination of the XK Network initiative.
-
-## Public Build Log
-
-| Date | Milestone | Status |
-| --- | --- | --- |
-| 07 Sep 2026 | Core contract deployed with fixed supply and verified source | Completed |
-| 08 Sep 2026 | Website, Litepaper, contact details, and token disclosures published | Completed |
-| 10 Sep 2026 | GitHub, X, and public Telegram channel consolidated as official sources | Completed |
-| 10 Sep 2026 | Open Mission #001 published for public-source consistency review | Open |
-
-## Current Status
-
-XK Network is in an early development stage. Its public foundation is complete and maintained continuously. Open Mission #001 is the first documented contribution workflow; roadmap items remain proposals until demonstrably delivered.
-
-## Disclosures
-
-XKT does not represent equity, debt, guaranteed utility, or a promise of financial return. XK Network does not claim fabricated users, volume, partnerships, audits, or achievements, and is not affiliated with or endorsed by X, xAI, Tesla, SpaceX, Binance, BNB Chain, or PancakeSwap.
-
-Last reviewed: **10 September 2026**.
