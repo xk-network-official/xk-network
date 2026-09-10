@@ -1,0 +1,111 @@
+name: Mission 001 Audit
+description: Submit an independent consistency review of XK Network's public sources.
+title: "Mission 001 Audit — "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reviewing XK Network's public sources.
+
+        Read the complete mission before submitting: https://www.xknetwork.net/mission-001
+
+        This is a documentation task, not promotion, investment activity, or a security audit. No token, payment, equity, employment, or future reward is promised.
+
+  - type: input
+    id: review-date
+    attributes:
+      label: Review date
+      description: Enter the date on which you checked the sources.
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+
+  - type: input
+    id: contributor
+    attributes:
+      label: Contributor name or alias
+      description: Use a public name or alias. Do not include unnecessary personal information.
+      placeholder: Name or alias
+    validations:
+      required: true
+
+  - type: textarea
+    id: urls-checked
+    attributes:
+      label: URLs checked
+      description: List every public source you reviewed, including the website, Litepaper, GitHub, X, Telegram, and BscScan.
+      placeholder: |
+        - https://www.xknetwork.net/
+        - https://www.xknetwork.net/litepaper
+        - https://github.com/xk-network-official/xk-network
+        - https://x.com/XKUSDT
+        - https://t.me/XKNetworkOfficial
+        - https://bscscan.com/token/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be
+    validations:
+      required: true
+
+  - type: textarea
+    id: source-comparison
+    attributes:
+      label: Source comparison
+      description: Compare factual fields across the sources. Add columns or rows when needed.
+      value: |
+        | Field | Website | Litepaper | GitHub | X | Telegram | BscScan | Result |
+        |---|---|---|---|---|---|---|---|
+        | Project name | | | | | | | |
+        | Token name / symbol | | | | | | | |
+        | Network | | | | | | | |
+        | Total supply | | | | | | | |
+        | Decimals | | | | | | | |
+        | Contract address | | | | | | | |
+        | Official links | | | | | | | |
+        | Founder identity | | | | | | | |
+        | Contact information | | | | | | | |
+        | Risk disclosures | | | | | | | |
+    validations:
+      required: true
+
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings
+      description: Report contradictions, broken links, ambiguous statements, or missing disclosures. If none were found, state that clearly.
+      placeholder: Describe each finding separately and distinguish facts from opinions.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Highest severity
+      description: Select the highest severity among your findings.
+      options:
+        - None found
+        - Minor
+        - Important
+        - Critical
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Provide a public link or screenshot reference for every reported issue.
+      placeholder: Link each finding to its supporting public evidence.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Submission checks
+      options:
+        - label: I checked all public sources listed in the mission scope.
+          required: true
+        - label: I separated factual observations from opinions.
+          required: true
+        - label: I did not fabricate engagement, transactions, endorsements, vulnerabilities, or identities.
+          required: true
+        - label: I did not include seed phrases, private keys, passwords, or unnecessary personal data.
+          required: true
