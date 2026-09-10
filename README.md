@@ -27,7 +27,7 @@ The deployed contract contains no additional mint function. Its source code is v
 
 - [Token contract on BscScan](https://bscscan.com/token/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be)
 - [Contract address page](https://bscscan.com/address/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be)
-- [Identity and verification record](https://xknetwork.net/verification.html)
+- [Identity and verification record](https://xknetwork.net/verification)
 - Contract creator: `0x4b48cc2cee7eb582fe473080141147a5d72c82ee`
 - Source status: **Exact Match**
 
@@ -36,9 +36,9 @@ Always verify the contract address before interacting with XKT. XK Network will 
 ## Official Sources
 
 - [Website](https://xknetwork.net)
-- [Litepaper](https://xknetwork.net/litepaper.html)
-- [Identity and verification record](https://xknetwork.net/verification.html)
-- [Founder accountability profile](https://xknetwork.net/founder.html)
+- [Litepaper](https://xknetwork.net/litepaper)
+- [Identity and verification record](https://xknetwork.net/verification)
+- [Founder accountability profile](https://xknetwork.net/founder)
 - [GitHub](https://github.com/xk-network-official/xk-network)
 - [X / Twitter](https://x.com/XKUSDT)
 - [Telegram Announcement Channel](https://t.me/XKNetworkOfficial)
@@ -48,4 +48,4 @@ These links are cross-published as the project's canonical public sources.
 
 ## Team & Accountability
 
-XK Network is currently founder-led by Yukun Zang. His [founder profile](https://xknetwork.net/founder.html) documents the current role, responsibilities, public work, and unresolved verification limitations. It is project-controlled and is not presented as independent professional identity verification.
+XK Network is currently founder-led by Yukun Zang. His [founder profile](https://xknetwork.net/founder) documents the current role, responsibilities, public work, and unresolved verification limitations. It is project-controlled and is not presented as independent professional identity verification.
