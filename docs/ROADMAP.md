@@ -6,12 +6,13 @@ Roadmap items are public work items, not promises of delivery dates, token value
 
 - XKT deployed on BNB Smart Chain with a fixed supply of 100,000,000 tokens.
 - Contract source verified as an Exact Match on BscScan.
-- Official website, Litepaper, contact details, GitHub, X, and Telegram published.
-- Public contract, security, risk, and project-status disclosures published.
-- Open Mission #001 specification prepared for public participation.
+- Contract deployment and source verification.
 
 ## In progress
 
+- Maintain the website, Litepaper, official contact, GitHub, X, Telegram, and public disclosures.
+- Replace the hosted subdomain and public QQ contact with a dedicated domain and domain email.
+- Publish an independently hosted professional profile for the founder.
 - Maintain consistent and verifiable project information across official channels.
 - Run Open Mission #001 and publish its review outcome.
 - Document future treasury and token-distribution policies before execution.
