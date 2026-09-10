@@ -25,21 +25,22 @@ BscScan source verification shows whether published source matches deployed byte
 
 - Website: https://xknetwork.net/
 - Website verification record: https://xknetwork.net/verification.html
+- Founder accountability profile: https://xknetwork.net/founder.html
 - Litepaper: https://xknetwork.net/litepaper.html
 - GitHub: https://github.com/xk-network-official/xk-network
 - X: https://x.com/XKUSDT
 - Telegram: https://t.me/XKNetworkOfficial
-- Official primary contact: 506664567@qq.com
+- Official primary contact: contact@xknetwork.net
 - BscScan: https://bscscan.com/token/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be
 
 ## Current limitations
 
-- The dedicated project domain is active, but the official primary contact remains a publicly disclosed QQ address rather than an address on that domain.
-- An independently hosted professional profile for Yukun Zang has not yet been published.
+- The official domain-based contact address is active and has passed inbound and outbound delivery testing.
+- A project-controlled founder accountability profile is published, but an independent third-party professional profile for Yukun Zang has not yet been published.
 - The official social accounts are new and have limited public history.
 - No public sale, private sale, exchange listing, security audit, or guaranteed token distribution program is represented as active.
 
-These items remain open and are not described as completed.
+The domain-email item is complete; the remaining items are not described as completed.
 
 ## Link and asset check
 

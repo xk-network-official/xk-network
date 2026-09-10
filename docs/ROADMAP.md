@@ -7,11 +7,12 @@ Roadmap items are public work items, not promises of delivery dates, token value
 - XKT deployed on BNB Smart Chain with a fixed supply of 100,000,000 tokens.
 - Contract source verified as an Exact Match on BscScan.
 - Dedicated project domain `xknetwork.net` connected with HTTPS.
+- Domain-based official contact `contact@xknetwork.net` activated and tested for inbound and outbound delivery.
+- Project-controlled founder accountability profile published.
 
 ## In progress
 
 - Maintain the website, Litepaper, official contact, GitHub, X, Telegram, and public disclosures.
-- Replace the public QQ contact with an address on the dedicated project domain.
 - Publish an independently hosted professional profile for the founder.
 - Maintain consistent and verifiable project information across official channels.
 - Run Open Mission #001 and publish its review outcome.

@@ -18,6 +18,6 @@ Verify the address and published source on [BscScan](https://bscscan.com/token/0
 
 ## Contact
 
-Report a suspected impersonation, broken official link, or documentation discrepancy to `506664567@qq.com`.
+Report a suspected impersonation, broken official link, or documentation discrepancy to `contact@xknetwork.net`.
 
 Do not send seed phrases, private keys, passwords, or unnecessary personal information.
