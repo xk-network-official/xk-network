@@ -10,8 +10,8 @@ Independently compare XK Network's public sources and report factual inconsisten
 
 ## Sources in scope
 
-- Official website: https://xk-network.dxfwwnc5dx.chatgpt.site/
-- Litepaper: https://xk-network.dxfwwnc5dx.chatgpt.site/litepaper.html
+- Official website: https://xknetwork.net/
+- Litepaper: https://xknetwork.net/litepaper.html
 - GitHub: https://github.com/xk-network-official/xk-network
 - X: https://x.com/XKUSDT
 - Telegram: https://t.me/XKNetworkOfficial
