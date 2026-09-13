@@ -1,6 +1,6 @@
 # Identity and Verification Record
 
-**Reviewed:** 11 September 2026
+**Reviewed:** 14 September 2026
 
 This record distinguishes independently checkable facts from project-controlled statements and unresolved verification items.
 
@@ -21,13 +21,16 @@ The project does not currently represent that it has employees, advisers, instit
 
 BscScan source verification shows whether published source matches deployed bytecode. It is not a security audit, identity check, endorsement, or guarantee of value.
 
+The XKT contract address was verified under the project's BscScan account on 7 September 2026. This supports control of the token-information update workflow; it does not independently verify the founder's personal or professional background.
+
 ## Canonical sources
 
 - Website: https://xknetwork.net/
 - Website verification record: https://xknetwork.net/verification
 - Founder accountability profile: https://xknetwork.net/founder
 - Litepaper: https://xknetwork.net/litepaper
-- GitHub: https://github.com/xk-network-official/xk-network
+- Founder GitHub profile: https://github.com/xk-network-official
+- GitHub repository: https://github.com/xk-network-official/xk-network
 - X: https://x.com/XKUSDT
 - Telegram: https://t.me/XKNetworkOfficial
 - Official primary contact: contact@xknetwork.net
@@ -36,14 +39,15 @@ BscScan source verification shows whether published source matches deployed byte
 ## Current limitations
 
 - The official domain-based contact address is active and has passed inbound and outbound delivery testing.
-- A project-controlled founder accountability profile is published, but an independent third-party professional profile for Yukun Zang has not yet been published.
+- A project-controlled founder accountability profile and a third-party-hosted GitHub professional profile for Yukun Zang are published. Both remain account-controlled and are not independent identity checks.
+- The XKT contract is listed as a verified address in the project's BscScan account.
 - The official social accounts are new and have limited public history.
 - No public sale, private sale, exchange listing, security audit, or guaranteed token distribution program is represented as active.
 
-The domain-email item is complete; the remaining items are not described as completed.
+The domain-email, public-profile, and BscScan address-ownership items are complete. Independent personal identity and background verification remains open.
 
 ## Link and asset check
 
-On 11 September 2026, the dedicated website domain, Litepaper, Mission #001, public GitHub repository, X profile, Telegram landing page, and Telegram web preview were checked. The 32×32 SVG and 64×64 PNG logo endpoints were also checked.
+On 14 September 2026, the dedicated website domain, Litepaper, Mission #001, founder GitHub profile, public repository, X profile, Telegram landing page, and Telegram web preview were checked. The 32×32 SVG and 64×64 PNG logo endpoints were also checked.
 
 BscScan or the website may present automated Cloudflare security checks to some automated clients. Important explorer and website links should be checked manually in a normal browser before any future metadata submission.
