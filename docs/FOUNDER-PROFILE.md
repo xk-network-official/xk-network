@@ -1,6 +1,6 @@
 # Yukun Zang — Founder and Project Lead
 
-**Reviewed:** 11 September 2026
+**Reviewed:** 14 September 2026
 
 Yukun Zang is the publicly identified founder and project lead of XK Network, an early-stage independent initiative exploring open collaboration between humans and AI agents.
 
@@ -17,6 +17,7 @@ Yukun Zang is the publicly identified founder and project lead of XK Network, an
 - Website: https://xknetwork.net/
 - Founder accountability page: https://xknetwork.net/founder
 - Identity and verification record: https://xknetwork.net/verification
+- Public GitHub professional profile: https://github.com/xk-network-official
 - Open Mission #001: https://xknetwork.net/mission-001
 - XKT contract: https://bscscan.com/token/0x603a874c9b7810bcd1ff7ce06cea0f2af3c8d1be
 - Contract creator address: https://bscscan.com/address/0x4b48cc2cee7eb582fe473080141147a5d72c82ee
@@ -25,7 +26,9 @@ Yukun Zang is the publicly identified founder and project lead of XK Network, an
 
 This document, the website, and the linked project accounts are controlled by XK Network. They provide public accountability but are not an independent identity or background check.
 
-No employment history, educational record, professional credential, or external employer affiliation has yet been published or independently verified. An independent third-party professional profile remains an open item.
+The XKT contract address was verified under the project's BscScan account on 7 September 2026. This supports control of the token-information update workflow. The public GitHub professional profile is hosted on a third-party platform, but it remains account-controlled.
+
+No employment history, educational record, professional credential, or external employer affiliation has yet been published or independently verified. Independent personal identity and background verification remains open.
 
 ## Contact
 
